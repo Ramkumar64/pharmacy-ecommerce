@@ -1,4 +1,4 @@
-# Pharmacy E-Commerce Backend System
+# Pharmacy E-Commerce 
 
 ## Overview
 This project is a backend system for an online pharmacy platform that enables users to browse products, place orders, and manage transactions. The system focuses on scalable API design, efficient database operations, and modular backend architecture.
